@@ -25,6 +25,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.yaml" />
+    <Content Include="cloudbuild.yaml" />
     <Content Include="Dockerfile" />
     <Content Include="requirements.txt" />
   </ItemGroup>
