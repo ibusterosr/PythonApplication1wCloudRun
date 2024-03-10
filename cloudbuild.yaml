@@ -12,7 +12,7 @@ steps:
   args:
     - 'run'
     - 'deploy'
-    - 'your-app-name'
-    - '--image=gcr.io/$PROJECT_ID/your-app-name'
+    - 'app'
+    - '--image=gcr.io/$PROJECT_ID/app'
     - '--platform=managed'
     - '--region=europe-west1'  # Ajusta la región según tu preferencia
