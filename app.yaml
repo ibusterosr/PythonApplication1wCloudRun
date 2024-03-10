@@ -1,0 +1,5 @@
+runtime: python39  # O la versión de Python que estás utilizando
+
+handlers:
+- url: /.*
+  script: auto
